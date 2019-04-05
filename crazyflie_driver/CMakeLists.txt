@@ -40,6 +40,7 @@ add_service_files(
   Takeoff.srv
   UpdateParams.srv
   UploadTrajectory.srv
+  UploadNN.srv
   sendPacket.srv
 )
 
